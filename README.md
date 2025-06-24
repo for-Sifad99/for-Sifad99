@@ -1,15 +1,14 @@
 ## Hi, I'm Sifad 👋
 <img src="https://i.postimg.cc/mk3855gp/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg" alt="si fad" />
 
+
+## 🚀 About Me
+'m a passionate Full Stack Developer who loves turning ideas into real-world web apps. Teaching what I know feels just as exciting as building things. When I'm not coding, you'll find me diving into thoughtful articles or sharing insights online.
+
 <p>
 - 🔭 I’m a **Web developer** <br> 
 - ⚡ Love fact **I love to code** <br> 
 - 📫 Fun fact **I am so funny** </p> 
-
-<p align="left"> Enail : Sifayed@gmail.com </p>
-
-## 🚀 About Me
-'m a passionate Full Stack Developer who loves turning ideas into real-world web apps. Teaching what I know feels just as exciting as building things. When I'm not coding, you'll find me diving into thoughtful articles or sharing insights online.
 
 
 <br /> 
