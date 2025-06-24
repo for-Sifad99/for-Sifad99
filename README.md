@@ -1,6 +1,7 @@
 <h1 >Hi 👋, I'm Sifad</h1>
 <h3>A passionate and innovative frontend developer from Bangladesh, focused on crafting seamless digital experiences.</h3>
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="si fad" width="full" />
+
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 
 - 🔭 I’m a **Web developer**
