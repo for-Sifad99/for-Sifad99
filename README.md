@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Sifad</h1>
 <h3>A passionate and innovative frontend developer from Bangladesh, focused on crafting seamless digital experiences.</h3>
-<img src="https://i.postimg.cc/0NdR7cpn/backgroundwallpaper.png" alt="si fad" />
+<img src="https://i.postimg.cc/mk3855gp/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg" alt="si fad" />
 
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 
