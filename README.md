@@ -1,11 +1,11 @@
-<h1 >Hi 👋, I'm Sifad</h1>
+## Hi, I'm Sifad 👋
 <img src="https://i.postimg.cc/mk3855gp/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg" alt="si fad" />
 
-
 <h3>A passionate and innovative frontend developer from Bangladesh, focused on crafting seamless digital experiences.</h3>
-- 🔭 I’m a **Web developer**
-- ⚡ Love fact **I love to code**
-- 📫 How to reach me **sifayed99@gmail.com**
+<p>
+- 🔭 I’m a **Web developer** <br> 
+- ⚡ Love fact **I love to code** <br> 
+- 📫 How to reach me **sifayed99@gmail.com** </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
