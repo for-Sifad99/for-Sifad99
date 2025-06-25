@@ -1,5 +1,5 @@
 ## Hi, I'm Sifad 👋
-<img src="https://i.postimg.cc/BQw6PP9X/Banner.png" alt="si fad" width="100%" height='300'/>
+<img src="https://i.postimg.cc/BQw6PP9X/Banner.png" alt="si fad" width="100%" height='330'/>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
@@ -39,3 +39,12 @@ coding,you'll find me diving into thoughtful articles or sharing insights online
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=for-Sifad99&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=for-Sifad99&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=for-Sifad99&theme=transparent&hide_border=true) |
 
+
+## 🔭 Contact
+You can also find me on:
+
+- **Email**: sifayed99@gmail.com
+- **Facebook** : [Click Here](https://www.facebook.com/si.fad.989357)
+
+
+Let's connect and discuss exciting opportunities!
