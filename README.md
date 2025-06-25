@@ -2,20 +2,16 @@
 <img src="https://i.postimg.cc/mk3855gp/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg" alt="si fad" />
 
 
-<div width="1000">
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" />
-</div>
-
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
 
 
 ## 🚀 About Me
 
-```yaml
+  ```yaml
 ME:
-Im a passionate Full Stack Developer who loves turning ideas into
-real-world web apps.Teaching what I know feels just as exciting as
-building things. When I'm not coding,you'll find me diving
-into thoughtful articles or sharing insights online.
+Im a passionate Full Stack Developer who loves turning ideas into real-world web
+apps.Teaching what I know feels just as exciting as building things. When I'm
+not coding,you'll find me diving into thoughtful articles or sharing insights online.
 
 <p>
 - 🔭 I’m a **Web developer** <br> 
@@ -23,7 +19,6 @@ into thoughtful articles or sharing insights online.
 - 📫 Fun fact **I am so funny**
  </p> 
 ```
-
 
 <br /> 
 ## 👨‍💻 Skills & Thexhnology: 
