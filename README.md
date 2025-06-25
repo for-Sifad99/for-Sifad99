@@ -1,5 +1,5 @@
 ## Hi, I'm Sifad 👋
-<img src="https://i.postimg.cc/BQw6PP9X/Banner.png" alt="si fad" width="100%" height='200'/>
+<img src="https://i.postimg.cc/BQw6PP9X/Banner.png" alt="si fad" width="100%" height='400'/>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
