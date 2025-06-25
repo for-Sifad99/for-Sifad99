@@ -10,8 +10,8 @@
   ```yaml
 ME:
 Im a passionate Full Stack Developer who loves turning ideas into real-world web
-apps.Teaching what I know feels just as exciting as building things. When I'm
-not coding,you'll find me diving into thoughtful articles or sharing insights online.
+apps.Teaching what I know feels just as exciting as building things. When I'm not
+coding,you'll find me diving into thoughtful articles or sharing insights online.
 
 <p>
 - 🔭 I’m a **Web developer** <br> 
