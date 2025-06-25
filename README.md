@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/mk3855gp/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming.jpg" alt="si fad" />
 
 
-<div align="center">
+<div width="500">
   <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" />
 </div>
 
