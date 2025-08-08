@@ -1,5 +1,5 @@
 ## Hi, I'm Sifad 👋
-<img src="https://i.postimg.cc/BQw6PP9X/Banner.png" alt="si fad" width="100%" height='330'/>
+<img src="https://i.ibb.co.com/V03QxR8r/github-banner.png" alt="si fad" width="100%" height='330'/>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" />
@@ -44,7 +44,9 @@ coding,you'll find me diving into thoughtful articles or sharing insights online
 You can also find me on:
 
 - **Email**: sifayed99@gmail.com
-- **Facebook** : [Click Here](https://www.facebook.com/si.fad.989357)
+- **Linkedin** : [https://www.linkedin.com/in/sifad-islam](https://www.linkedin.com/in/sifad-islam)
+- **Facebook** : [https://www.facebook.com/si.fad.989357](https://www.facebook.com/si.fad.989357)
+- **Twitter** : [https://www.facebook.com/si.fad.989357](https://x.com/SifadS60412)
 
 
 Let's connect and discuss exciting opportunities!
