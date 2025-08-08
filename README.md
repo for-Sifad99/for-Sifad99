@@ -9,11 +9,9 @@
 
   ```yaml
 ME:
-<h4>
 Im a passionate Full Stack Developer who loves turning ideas into real-world web
 apps.Teaching what I know feels just as exciting as building things. When I'm not
 coding,you'll find me diving into thoughtful articles or sharing insights online.
-</h4>
 
 <p>
 - 🔭 I’m a **Web developer** <br> 
@@ -46,9 +44,9 @@ coding,you'll find me diving into thoughtful articles or sharing insights online
 You can also find me on:
 
 - **Email**: sifayed99@gmail.com
-- **Linkedin** : [https://www.linkedin.com/in/sifad-islam](https://www.linkedin.com/in/sifad-islam)
-- **Facebook** : [https://www.facebook.com/si.fad.989357](https://www.facebook.com/si.fad.989357)
-- **Twitter** : [https://www.facebook.com/si.fad.989357](https://x.com/SifadS60412)
+- **Linkedin** : [Click Here!](https://www.linkedin.com/in/sifad-islam)
+- **Facebook** : [Click Here!](https://www.facebook.com/si.fad.989357)
+- **Twitter** : [Click Here!](https://x.com/SifadS60412)
 
 
 Let's connect and discuss exciting opportunities!
