@@ -44,7 +44,7 @@ coding,you'll find me diving into thoughtful articles or sharing insights online
 You can also find me on:
 
 - **Email**: sifayed99@gmail.com
-- **Linkedin** : [Click Here!](https://www.linkedin.com/in/sifad-islam)
+- **Linkedin** : [Click Here!](https://www.linkedin.com/in/md-sifayed99/)
 - **Facebook** : [Click Here!](https://www.facebook.com/si.fad.989357)
 - **Twitter** : [Click Here!](https://x.com/SifadS60412)
 
