@@ -1,4 +1,4 @@
-## Hi, I'm Sifad 👋
+## Hi, I'm Sifayed ⚡
 <img src="https://i.postimg.cc/QxxcmBD2/github-banner.png" alt="si fad" width="100%" height='330'/>
 
 
